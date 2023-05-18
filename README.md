@@ -20,13 +20,13 @@ Integracja z innymi usługami: Messenger pozwala na integrację z innymi aplikac
 
 Bezpieczeństwo i prywatność: FakeMessenger stawia duży nacisk na bezpieczeństwo i prywatność użytkowników. Oferuje funkcje takie jak szyfrowanie end-to-end, blokowanie nieznajomych i opcje kontroli prywatności.
 
-```bash
-Ekran logowania
-```
+
+### Ekran logowania
+
 ![image](https://github.com/HIZILL/FakeMessanger/assets/90003305/1e29d0eb-40e8-475d-a4ba-3bbb860ebdc5)
 
 
-```bash
-Ekran Aplikacji
-```                      
+
+### Ekran Aplikacji
+                    
 ![image](https://github.com/HIZILL/FakeMessanger/assets/90003305/50e32f36-1978-4339-a90c-6ce6f56bad98)
