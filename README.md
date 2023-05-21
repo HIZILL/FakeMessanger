@@ -30,3 +30,14 @@ Bezpieczeństwo i prywatność: FakeMessenger stawia duży nacisk na bezpieczeń
 ### Ekran Aplikacji
                     
 ![image](https://github.com/HIZILL/FakeMessanger/assets/90003305/50e32f36-1978-4339-a90c-6ce6f56bad98)
+
+
+## Licencje OEM
+Licencja OEM (Original Equipment Manufacturer): Licencja OEM jest stosowana w przypadku sprzętu komputerowego, takiego jak komputery, laptopy, drukarki, itp. Zazwyczaj jest to forma licencji, w której oprogramowanie jest preinstalowane na urządzeniu przez producenta sprzętu. Licencja OEM jest zwykle wiązana z konkretnym urządzeniem i nie zezwala na przeniesienie oprogramowania na inne urządzenie. Zazwyczaj nie ma możliwości wsparcia technicznego bezpośrednio od producenta oprogramowania, a wszelkie pytania lub problemy techniczne są kierowane do producenta sprzętu.
+
+## Licencja BOX
+Licencja BOX: Licencja BOX jest indywidualną licencją oprogramowania, która jest sprzedawana oddzielnie, niezależnie od sprzętu. Jest to typowa forma licencji dla oprogramowania sprzedawanego w pudełkach lub jako pliki do pobrania. Licencja BOX zazwyczaj umożliwia instalację oprogramowania na jednym lub kilku urządzeniach, w zależności od zapisów licencji. Wiele licencji BOX oferuje również pewne formy wsparcia technicznego, takie jak okres darmowych aktualizacji lub możliwość skorzystania z pomocy technicznej producenta oprogramowania.
+
+
+
+
