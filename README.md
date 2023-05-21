@@ -38,6 +38,17 @@ Licencja OEM (Original Equipment Manufacturer): Licencja OEM jest stosowana w pr
 ## Licencja BOX
 Licencja BOX: Licencja BOX jest indywidualną licencją oprogramowania, która jest sprzedawana oddzielnie, niezależnie od sprzętu. Jest to typowa forma licencji dla oprogramowania sprzedawanego w pudełkach lub jako pliki do pobrania. Licencja BOX zazwyczaj umożliwia instalację oprogramowania na jednym lub kilku urządzeniach, w zależności od zapisów licencji. Wiele licencji BOX oferuje również pewne formy wsparcia technicznego, takie jak okres darmowych aktualizacji lub możliwość skorzystania z pomocy technicznej producenta oprogramowania.
 
+## Licencja Git
+Licencja MIT: Jest to jedna z najbardziej liberalnych licencji. Pozwala na używanie, modyfikowanie, kopiowanie, dystrybucję i podawanie wersji zmodyfikowanych kodów źródłowych bez żadnych ograniczeń. Licencja MIT wymaga jedynie zachowania informacji o prawach autorskich i zezwala na używanie kodu zarówno w projektach otwartoźródłowych, jak i komercyjnych.
+
+Licencja GNU GPL: Jest to licencja wolnego oprogramowania, która promuje wolność użytkowników i zapobiega zamknięciu kodu. Główną zasadą licencji GNU GPL jest to, że każdy, kto korzysta z kodu źródłowego, musi udostępnić swoje zmiany na zasadach tej samej licencji. Oznacza to, że projekty korzystające z licencji GPL muszą być również dostępne jako otwartoźródłowe.
+
+Licencja Apache: Jest to otwarta licencja, która pozwala na używanie, modyfikowanie, kopiowanie i dystrybucję kodu źródłowego. Jednakże, w przeciwieństwie do licencji MIT, licencja Apache wprowadza pewne warunki i ograniczenia dotyczące odpowiedzialności prawniczej i patentowej.
+
+Licencja Creative Commons: To zestaw różnych licencji, które obejmują różne aspekty, takie jak prawa autorskie, prawo do modyfikacji i komercjalizacji. Creative Commons oferuje kilka kombinacji zasad, które programiści mogą wybrać w zależności od swoich preferencji.
+
+Licencja BSD: Istnieje kilka wariantów licencji BSD, ale ogólnie mówiąc, jest to dość liberalna licencja, która pozwala na używanie, modyfikowanie, kopiowanie i dystrybucję kodu źródłowego. Jednakże, w przeciwieństwie do licencji MIT, licencja BSD wymaga zachowania informacji o prawach autorskich w dokumentacji i reklamie związaną z oprogramowaniem.
+
 
 
 
